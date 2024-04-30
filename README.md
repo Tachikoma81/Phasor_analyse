@@ -1,4 +1,3 @@
----
 
 **Library for Phasor Calculation and Visualization**
 
