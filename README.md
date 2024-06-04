@@ -17,7 +17,7 @@
 **calculate_phasor:**
 - **Parameters:** None.
 - **Result:** Performs the phasor calculation.
-- **Advice:** Use the function as follows: `pha.phasors = pha.calculate_phasor()`.
+- **Advice:** Use the function as follows:  `pha.calculate_phasor()`.
 
 **plot_phasor:**
 - **Parameters:**
