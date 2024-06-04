@@ -1,7 +1,0 @@
-requiere :
-  numpy 
-  matplolib and matplolib.pyplot
-  OpenCv
-  skimage
-  seaborn
-lien
