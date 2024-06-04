@@ -1,7 +1,7 @@
 # install_link
 do the link
 ## requiere :
-  numpy 
+  numpy\\ 
   matplolib and matplolib.pyplot
   OpenCv
   skimage
